@@ -4,7 +4,7 @@ function Hero() {
   return (
     <div className="hero">
       <video className="hero-video" autoPlay loop muted>
-        <source src="/src/assets/rick-and-morty-escape-portal-moewalls-com.mp4" type="video/mp4" />
+        <source src="/rick-and-morty-escape-portal-moewalls-com.mp4" type="video/mp4" />
         Your browser does not support videos.
       </video>
       <div className="hero-content">
