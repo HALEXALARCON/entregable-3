@@ -3,7 +3,7 @@ import { useFechApi } from "./hooks/useFechApi";
 import { getRandomNumber } from "./utils";
 import Hero from "./components/Hero";
 import Search from "./components/Search";
-import LocationInfo from "./components/locationinfo";
+import LocationInfo from "./components/LocationInfo";
 import ResidentsList from "./components/ResidentsList";
 import Pagination from "./components/Pagination";
 import SkeletonRYM from "./components/skeletonRYM";
