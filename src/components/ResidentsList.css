@@ -1,0 +1,9 @@
+.residents {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2em 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  grid-template-rows: auto auto;
+  gap: 20px;
+}
